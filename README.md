@@ -4,10 +4,10 @@ IT635-852 Database Administration Final Project
 • Professor Tolboom, Logan Reyes
 • Project Status - Submitted
 
-File
+**File**
 • init.js
 
-Usage to load and test the validator
+**Usage to load and test the validator**
 
 • Open mongosh and run:
     load('init.js');
@@ -32,7 +32,9 @@ Usage to load and test the validator
         status: "scheduled"
     });
 
-Collections
+**Collections**
 • Patients - Contains patient demographic and insurance information
+
 • Doctors - Contains doctor profiles and weekly schedules
+
 • Appointments - Stores scheduled, completed, or cancelled appointments with references to patients and doctors
