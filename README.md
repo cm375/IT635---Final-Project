@@ -8,7 +8,6 @@ IT635-852 Database Administration Final Project
 
 **Usage to load and test the validator**
 • Open mongosh and run:
-
     load('init.js');
     --> show collections();
     --> db.Appointments.find().pretty();
