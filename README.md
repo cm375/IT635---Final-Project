@@ -1,7 +1,7 @@
 IT635-852 Database Administration Final Project
 
 • Courtney Martin
-• Professor Tolboom
+• Professor Tolboom, Logan Reyes
 • Project Status - Submitted
 
 File
